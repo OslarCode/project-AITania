@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="https://tu-dominio.com/AiTania-banner.png" alt="AITania Banner" width="100%"/>
+</div>
 
+<br/>
 # AITania: The Personal Day-to-Day Architect
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
