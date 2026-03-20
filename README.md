@@ -1,7 +1,7 @@
 
 # AITania: The Personal Day-to-Day Architect
 
-[![License: Apache](https://img.shields.io/badge/License-Apache%25202.0-blue.svg)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.1.0+-orange.svg)](https://www.langchain.com/)
@@ -250,7 +250,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Project Lead:** [@yourhandle](https://github.com/OslarCode)
+- **Project Lead:** [@OslarCode](https://github.com/OslarCode)
 - **Issues:** [GitHub Issues](https://github.com/your-org/aitania/issues)
 
 ---
