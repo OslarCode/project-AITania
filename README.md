@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tu-dominio.com/AiTania-banner.png" alt="AITania Banner" width="100%"/>
+  <img src="https://github.com/OslarCode/project-AITania/blob/main/AiTania-banner.png" alt="AITania Banner" width="100%"/>
 </div>
 
 <br/>
